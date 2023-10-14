@@ -9,12 +9,15 @@ Here in backend there are user and property routes and controllers.
 
 Here are screenshot of project.
 
-![Screenshot (304)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/5e511df9-e37c-4822-9395-4bfabef8a097)
 
-![Screenshot (305)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/4dc98662-d310-49b7-b4e1-2f77a28a5139)
+![Screenshot (309)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/e38fe1d9-a001-4487-a14f-59ef38cb23f6)
 
-![Screenshot (306)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/7a116c7b-9921-4b72-a7a6-647c0ffee055)
+![Screenshot (310)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/04f8555f-5e20-4be8-aa1e-1f68c29bbed0)
 
-![Screenshot (307)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/ed42046f-51be-4e31-9394-9737af4f6986)
+![Screenshot (312)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/d65aa829-c92d-4c98-ba52-ab16988529ae)
 
-![Screenshot (308)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/74e2f82e-8fc6-40f4-9d90-a83103a0cf80)
+![Screenshot (313)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/d2b3630f-9a0b-4bd6-ab22-4da3b921c910)
+
+![Screenshot (311)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/87730c98-7f6e-44ab-917a-e4222fd19ba1)
+
+![Screenshot (314)](https://github.com/Smishra-solveda/Refine-Property-Management/assets/133752093/709c2657-16fd-4973-a304-c04705b3ecd3)
