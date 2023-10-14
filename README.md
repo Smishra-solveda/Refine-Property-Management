@@ -1,5 +1,9 @@
 # Refine-Property-Management
 
+The backend of project is hoisted at render.com at location https://refine-dashboard-s6bi.onrender.com
+The frontend is hoisted at netlify.com at location https://property-dashboard-re-fine.netlify.app
+
+
 Here in frontend I have implemented Home, Property and Agent of property logic.
 Here in backend there are user and property routes and controllers.
 
